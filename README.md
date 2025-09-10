@@ -1,4 +1,4 @@
-📊 Executive Summary – Sales Analysis Dashboard
+Executive Summary – Sales Analysis Dashboard
 
 This Sales Analysis Dashboard provides a comprehensive view of the organization’s sales performance across different dimensions such as occasions, categories, products, cities, time, and customer spending behavior. The analysis aims to uncover key revenue drivers, customer preferences, and operational insights to support data-driven decision-making.
 
